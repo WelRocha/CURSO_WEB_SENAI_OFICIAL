@@ -9,6 +9,7 @@ console.log(!!3)
 console.log(!![])
 console.log(!!{})
 
+
 console.log('Elementos FALSO:')
 console.log(!!0)
 console.log(!!"")
